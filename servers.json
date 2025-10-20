@@ -1,8 +1,8 @@
 {
     "servers": [
         {
-            "name": "[同上]",
-            "address": "[同上]"
+            "name": "javie-server",
+            "address": "https://anisette-v3-server-mle9.onrender.com"
         }
     ]
 }
